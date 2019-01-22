@@ -1,0 +1,37 @@
+Pcl?cl‘cl, Punjab 14700]
+946 403 1819 omfshgloveréigma?com
+PROFESSIONAL SUMMARY
+Hardworking indeuu‘ mm a lot of passion and eagerness Io \eum new ans, have a
+patient and focused mind. AspTring for oppormnifies in Various cechnology domains for new
+experiences and wou‘d \ike to showcase me skTHs in me orgunTsa?on
+SKILLS
+- Java - Pyihon [Beginner]
+' SQL ' HTML/ CSS
+- c - JavaScripi/ jQuery (Bengner)
+- c++ - Guund Version Coniro‘
+EDUCATION
+Chilkum University . Rajpum, PB \ BachelolOfTechnology(B. 1ech.)
+Computer Science Engineering, 2020
+' Curren' GPA 9.84
+Nurain Public School . Pa?ula, PE | High School Diploma
+2016
+' Passed wi'h 94% CBSE Board
+PROJECTS
+- Kilaub . 'lhe Online Libmry:
+Websiie mm provides erbooks k) ine users, categorized on different lopTcs.
+Technologies Used: HTML, css (Bootstrap), JavaScript, JQuery.
+- lmage-lo-Texf out based applicalion:
+Given an Tmuge containing text, ine appucanon provides cne Iexf in edu able form for
+the users. Provides login functionality for the users.
+Technologies Used: Java [for OCR ), SQL [for Accoum Management)
+Worked on: OCR Library Implementation, SQL
+Projeci selected for NOVATE 2018 held at cnirkara University.
+- Wemewlel:
+A Fthon script ihui feiches cne produci name and IheTr price from any producis win on
+Amazon, inc‘udes Fi‘e Hand‘ing.
+Technologies Used: Pthon
+HOBBIES AND INTERESTS
+- Playing crickei
+- FTIness Enthusfusi
+- TechrBuff
+
