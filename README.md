@@ -1,27 +1,27 @@
-# ImageRecognition
-An Image Recognition Java based Application that takes an image file an input and outputs the text data from it in an editable format adding the functionality of logging in
+# Getting Started
 
-Before using this piece of code you will need to configure the compiler first 
-Recommended java compiler is Java 8 or ABOVE
+This tool is a Java Application that extracts text from image files whilst providing an interface
+It uses Tesseract-OCR, an open-source software contributed my major companies like Google to extract text from an image
 
-First these all files need to be added into your workspace
-And install all the libraries included in the Required Libraries into the project Build Path alongside the Java compiler
-Next for the functionality of Database, you will need to have Oracle Database Installed(Prefferd version 10 G)
-Ensure that username and password of your database is SYSTEM and SYS respectively(capitals)
-Into the database create a table named info having two varchar fields name and password
-  The prototype of the table looks like
-    create table info(name varchar(15), password varchar(15));
+#### Features
+* Custom login sessions for multiple users 
+* Database at the backend to ensure proper login and session management
+* Simple interface which is easy to navigate and interact with
+* Save the extracted data from the image either locally or edit it on-the-go
 
-If you already have a database you will need to change the required in the interface.java file located at /src/ocr_img
+## Installation
+* Import the repository to your local machine and open it on any Java-IDE
+* Configure the default Java compiler, install the required libraries from the repository alonside the default java compiler
+* Install Oracle Database to your system and create a table inside having two attributes name and password
+      The basic SQL query to create the table would be
+       -> create table <table name>(name varchar(15), password varchar(15));
+  Now to enable database communication with your application
+  Open interface.java file located at /src/ocr_img and modify the username and password to the database username and password
+  Also change the table name to the name of the table created into your database
+* Run interface.java file to start this application
+  
+# Note
+Anyone can use this Java Application for any use they intend to
+However, this might contain bugs, the user will be liable for any data loss or any problem id they use this application
 
-You can use this Java Application for any use you intend to.
-This might contain bugs, the user will be liable for any data loss or any problem for that sort by using this application
-
-To start the application locate interface.java file at /src/ocr_img  and run the java file
-Thanks for using this software
-I hope you find this helpful
-
-
-
-
-
+  
