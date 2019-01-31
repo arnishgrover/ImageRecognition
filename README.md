@@ -21,7 +21,7 @@ It uses Tesseract-OCR, an open-source software contributed my major companies li
 * Run interface.java file to start this application
   
 # Note
-Anyone can use this Java Application for any use they intend to
-However, this might contain bugs, the user will be liable for any data loss or any problem id they use this application
+*Anyone can use this Java Application for any use they intend to
+*However, this might contain bugs, the user will be liable for any data loss or any problem they encounter while using this applicaton
 
   
