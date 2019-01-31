@@ -13,11 +13,11 @@ It uses Tesseract-OCR, an open-source software contributed my major companies li
 * Import the repository to your local machine and open it on any Java-IDE
 * Configure the default Java compiler, install the required libraries from the repository alonside the default java compiler
 * Install Oracle Database to your system and create a table inside having two attributes name and password
-      The basic SQL query to create the table would be
-       -> create table <table name>(name varchar(15), password varchar(15));
-  Now to enable database communication with your application
-  Open interface.java file located at /src/ocr_img and modify the username and password to the database username and password
-  Also change the table name to the name of the table created into your database
+      *The basic SQL query to create the table would be
+       *create table <table name>(name varchar(15), password varchar(15));
+* Now to enable database communication with your application
+       *Open interface.java file located at /src/ocr_img and modify the username and password to the database username and password
+       *Also change the table name to the name of the table created into your database
 * Run interface.java file to start this application
   
 # Note
